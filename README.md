@@ -53,30 +53,43 @@ https://docs.dfyn.network/tokenomics
 
 https://docs.polyzap.finance/tokenomics/polyzap-token-pzap
 
-### Audits
+### Polygon DEX Audits
 https://rugdoc.io/ - https://docs.google.com/spreadsheets/d/1POnoeD6A0_Z8IBonxp5g_gkzU7QWA3ypQX6KT8uNbRI/edit?rm=minimal#gid=620270946
 
-### Listings
+### Polygon Listings
 https://vfat.tools/polygon/
 
 https://dappradar.com/rankings/protocol/polygon
 
-## Popular Ethereum and/or Poylgon Platforms
+## Popular Dapps (!!Do-Your-Own-Research FIRST!!)
+### Ethereum-only Dapps
+https://info.uniswap.org/#/
+
+## Ethereum+Polygon Dapps
 https://app.aave.com/markets
 
 https://curve.fi/ - https://polygon.curve.fi/
 
-https://quickswap.exchange/#/quick
-
 https://app.sushi.com/yield
+
+https://app.1inch.io/
+
+https://paraswap.io/
+
+https://www.sorbet.finance/limit-order
+
+## Poylgon-only Dapps
+https://quickswap.exchange/#/quick
 
 https://farm.polyzap.finance/farms
 
 https://polycat.finance/
 
-## Useful Ethereum and/or Polygon Tools
+https://exchange.dfyn.network/#/dfyn
 
-https://paraswap.io/
+## Polygon RPCs
+https://rpc-endpoints.superfluid.dev/matic
 
+https://rpc-mainnet.matic.quiknode.pro/
 
-
+https://rpc.polycat.finance/
