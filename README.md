@@ -54,7 +54,9 @@ https://docs.matic.network/docs/develop/getting-started/
 https://infura.io/
 
 ## Picking a Yield Method
-### Tokenomics
+### Tokenomics (Look up for specified token before investing!)
+https://quickswap-layer2.medium.com/quick-tokenomics-liquidity-mining-details-96-75-distributed-to-the-community-3dbffd6ba214
+
 https://docs.dfyn.network/tokenomics
 
 https://docs.polyzap.finance/tokenomics/polyzap-token-pzap
