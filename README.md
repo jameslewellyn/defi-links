@@ -5,6 +5,8 @@ A List of Links Related to Decentralized Finance; Primarily Ethereum/Polygon Bas
 https://www.investopedia.com/terms/d/dollarcostaveraging.asp
 
 ## Connecting to Polygon
+https://docs.matic.network/docs/home/new-to-matic/
+
 https://wallet.matic.network/bridge
 
 https://mapper.matic.today/
@@ -46,6 +48,10 @@ https://docs.ethers.io/v5/getting-started/
 https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd
 
 https://etherscan.io/apis
+
+https://docs.matic.network/docs/develop/getting-started/
+
+https://infura.io/
 
 ## Picking a Yield Method
 ### Tokenomics
